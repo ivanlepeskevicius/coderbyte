@@ -13,6 +13,7 @@ Run `npx cypress run` to run the Cypress Tests in headless mode.
 # Test failure
 
 You will notice that the test4.js is failing, this is intentional since there is a small bug that allows the user to break the sub-category filtering. 
+
 <img width="283" alt="image" src="https://github.com/ivanlepeskevicius/coderbyte/assets/41808652/ae08b1c0-6e94-4298-bbf5-ae8c25a79e5d">
 
 ### Bug description 
